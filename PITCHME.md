@@ -26,23 +26,23 @@
 
 #### Tip 1. Meet the Dot Command
 
-The dot command lets us repeat the last change. It is the most powerful and versatile command in Vim.
+The `.` command lets us repeat the last change. It is the most powerful and versatile command in Vim.
 
 +++
 
-The `x` command deletes the character under the cursor. When we use the dot command in this context, “repeat last change” tells Vim to delete the character under the cursor.
+The `x` command deletes the character under the cursor, then `.` command will repeat that.
 
 ![](assets/screenshot_8627.png)
 
 +++
 
-The `dd` command also performs a deletion, but this one acts on the current line as a whole. If we use the dot command after dd, then “repeat last change” instructs Vim to delete the current line.
+The `dd` command performs a deletion the current line, then `.`  command will repeat that.
 
 ![](assets/screenshot_8628.png)
 
 +++
 
-Finally, the `>G` command increases the indentation from the current line until the end of the file. If we follow this command with the dot command, then “repeat last change” tells Vim to increase the indentation level from the current position to the end of the file.
+The `>G` command increases the indentation of the current line until the end of the file, then `.` command will repeat that.
 
 ![](assets/screenshot_8629.png)
 
@@ -50,4 +50,4 @@ Finally, the `>G` command increases the indentation from the current line until 
 
 #### Some Related Links
 
-- [Homepage]()
+- [Homepage](https://pragprog.com/book/dnvim2/practical-vim-second-edition)
