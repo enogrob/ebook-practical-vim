@@ -6,7 +6,7 @@ Solution Integrator Experienced - Certified by Ericsson
 ```
 # eBook Practical Vim
 
-![ebook image](images/ebook.png)
+![ebook image](assets/ebook.png)
 
 **About**
 

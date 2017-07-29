@@ -1,10 +1,10 @@
 ---
 
-### R
-### OpenCPU Spark Executor
-### (ROSE)
+![](assets/ebook.png)
 
-<span style="color:gray">An Apache Spark Package</span>
+### Practical Vim
+#### Edit Text at the Speed of Thought
+<span style="color:gray">by Drew Neil</span>
 
 ---
 
@@ -115,7 +115,7 @@ val rResultRDD = rTaskRDD.analyze
 #### Step 3. Process RDD[<span style="color:gray">OCPUResult</span>]
 
 ```scala
-// Process RDD[OCPUResult] data per app requirements. 
+// Process RDD[OCPUResult] data per app requirements.
 
 rResultRDD.foreach { rResult ->
 
