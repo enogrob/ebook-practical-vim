@@ -3,7 +3,7 @@
 ![](assets/ebook.png)
 
 ### Practical Vim
-#### Edit Text at the Speed of Thought
+##### Edit Text at the Speed of Thought
 <span style="color:gray">by Drew Neil</span>
 
 ---
