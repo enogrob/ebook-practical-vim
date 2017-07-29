@@ -3,8 +3,8 @@
 ![](assets/ebook.png)
 
 ### Practical Vim
-Edit Text at the Speed of Thought
 
+<span style="color:gray">Edit Text at the Speed of Thought</span><br/>
 <span style="color:gray">by Drew Neil</span>
 
 ---
