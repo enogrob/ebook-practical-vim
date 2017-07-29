@@ -42,7 +42,7 @@ The `dd` command performs a deletion the current line, then `.`  command will re
 
 +++
 
-The `>G` command increases the indentation of the current line until the end of the file, then `.` command will repeat that.
+The `>G` command increases the indentation of the current line, then `.` command will repeat that.
 
 ![](assets/screenshot_8629.png)
 
