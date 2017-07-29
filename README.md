@@ -1,3 +1,4 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-practical-vim/master)
 ```
 Roberto Nogueira  
 BSd EE, MSd CE
@@ -15,10 +16,8 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
-Foreword
-
-The Vim Way
-
+[ ] Foreword
+[ ] The Vim Way
 Modes
 [ ] Normal Mode
 [ ] Insert Mode
