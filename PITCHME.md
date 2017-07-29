@@ -26,23 +26,37 @@
 
 #### Tip 1. Meet the Dot Command
 
+<span style="color:gray">
 The `.` command lets us repeat the last change. It is the most powerful and versatile command in Vim.
+</span>
 
 +++
 
+#### Tip 1. Meet the Dot Command
+
+<span style="color:gray">
 The `x` command deletes the character under the cursor, then `.` command will repeat that.
+</span>
 
 ![](assets/screenshot_8627.png)
 
 +++
 
+#### Tip 1. Meet the Dot Command
+
+<span style="color:gray">
 The `dd` command performs a deletion the current line, then `.`  command will repeat that.
+</span>
 
 ![](assets/screenshot_8628.png)
 
 +++
 
+#### Tip 1. Meet the Dot Command
+
+<span style="color:gray">
 The `>G` command increases the indentation of the current line, then `.` command will repeat that.
+</span>
 
 ![](assets/screenshot_8629.png)
 
