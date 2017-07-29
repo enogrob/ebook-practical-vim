@@ -32,8 +32,6 @@ The `.` command lets us repeat the last change. It is the most powerful and vers
 
 +++
 
-#### Tip 1. Meet the Dot Command
-
 <span style="color:gray">
 The `x` command deletes the character under the cursor, then `.` command will repeat that.
 </span>
@@ -42,8 +40,6 @@ The `x` command deletes the character under the cursor, then `.` command will re
 
 +++
 
-#### Tip 1. Meet the Dot Command
-
 <span style="color:gray">
 The `dd` command performs a deletion the current line, then `.`  command will repeat that.
 </span>
@@ -51,8 +47,6 @@ The `dd` command performs a deletion the current line, then `.`  command will re
 ![](assets/screenshot_8628.png)
 
 +++
-
-#### Tip 1. Meet the Dot Command
 
 <span style="color:gray">
 The `>G` command increases the indentation of the current line, then `.` command will repeat that.
